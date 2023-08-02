@@ -9,3 +9,4 @@
 8-firstdelete deletes the file betty from my first directory in tmp
 9-firstdirdeletion deletes my first directory from tmp
 10-back changes the current working directory to the previous directory
+11-lists primts the lists in the current working directory then the parent directory and finally the boot directory
