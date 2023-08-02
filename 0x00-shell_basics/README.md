@@ -5,3 +5,4 @@
 4-listmorefiles is used to display files in the current working directory including the hidde ones with a period.
 5-lisfilesdigitonly is used to display all files in numerical order including hidden ones
 6-firstdirectory creates a new directory in the tmp directory
+7-movethatfile moves the file betty from tmp  to my first directory in tmp
