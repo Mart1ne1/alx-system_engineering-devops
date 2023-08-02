@@ -4,3 +4,4 @@
 3-listfiles is used to display the files in the current directory in long format
 4-listmorefiles is used to display files in the current working directory including the hidde ones with a period.
 5-lisfilesdigitonly is used to display all files in numerical order including hidden ones
+6-firstdirectory creates a new directory in the tmp directory
