@@ -11,3 +11,4 @@
 10-back changes the current working directory to the previous directory
 11-lists primts the lists in the current working directory then the parent directory and finally the boot directory
 12-file_type prints the type of file in tmp called iamafile
+13-symbolic_link creates a symbolic link to /bin/ls
