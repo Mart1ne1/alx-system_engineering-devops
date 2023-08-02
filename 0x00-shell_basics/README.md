@@ -6,3 +6,4 @@
 5-lisfilesdigitonly is used to display all files in numerical order including hidden ones
 6-firstdirectory creates a new directory in the tmp directory
 7-movethatfile moves the file betty from tmp  to my first directory in tmp
+8-firstdelete deletes the file betty from my first directory in tmp
