@@ -12,3 +12,4 @@
 11-lists primts the lists in the current working directory then the parent directory and finally the boot directory
 12-file_type prints the type of file in tmp called iamafile
 13-symbolic_link creates a symbolic link to /bin/ls
+14-copy_html copies files from the curretn working directory to the parent working directory but doesn't duplicate.
